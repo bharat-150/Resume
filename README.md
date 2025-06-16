@@ -1,2 +1,2 @@
 # Resume
-My resume from Complete Web Development Course
+My Project from Complete Web Development Course
